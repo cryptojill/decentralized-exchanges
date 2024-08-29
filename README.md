@@ -1,6 +1,6 @@
 # Decentralized Cryptocurrency Exchanges (DEX)
 
-![Instant Cryptocurrency Exchanges](https://github.com/user-attachments/assets/b21960de-1bab-40fa-b27a-64d3d588f9ff)
+![Instant Cryptocurrency Exchanges](dex.png)
 
 This is a definitive list of the best decentralized cryptocurrency exchanges available. By their nature, these can be used by anyone simply by connecting a wallet such as Metamask or Trust Wallet. There's no need for any registration or Know Your Customer (KYC), meaning no personal information ever changes hands. All have been verified as reputable and well established platforms.
 
